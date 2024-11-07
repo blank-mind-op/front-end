@@ -85,7 +85,7 @@ https://dahouzfatima.github.io/ResponsivePages/public/
 
 https://krmimane.github.io/cake2.github.io/
 
-### 22. MAGFLOZ
+### 22. Application de suivi des dépense
 
 https://blank-mind-op.github.io/MAGFLOZ/build/
 
