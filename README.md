@@ -85,3 +85,7 @@ https://dahouzfatima.github.io/ResponsivePages/public/
 
 https://krmimane.github.io/cake2.github.io/
 
+### 22. MAGFLOZ
+
+https://blank-mind-op.github.io/MAGFLOZ/build/
+
