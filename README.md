@@ -59,7 +59,7 @@ https://yassmineattar.github.io/Bookworm_tailwind/dist/index.html
 
 ### 15. Voyage Organise
 
-https://chaffaa.github.io/voyg/
+https://chaffaa.github.io/voyage1/
 
 ### 16. Gestion d'un cabinet d'avocat
 
@@ -88,4 +88,8 @@ https://krmimane.github.io/cake2.github.io/
 ### 22. Application de suivi des dépense
 
 https://blank-mind-op.github.io/MAGFLOZ/build/
+
+### 23. ZeroWaste
+
+https://mawa-maria.github.io/project0waste/
 
